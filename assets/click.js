@@ -94,6 +94,136 @@ function daerahCorona() {
       <li>Merasa sakit? <strong>Usahakan menghubungi dokter melalui telepon terlebih dahulu agar dokter dapat mempersiapkan diri</strong></li>
     </ol>
     `;
+  } else if (kecamatanLower === "kalasan") {
+    kotakSatu.innerHTML = `
+    <h3>1</h3>
+    <p>Positif</p>
+    `;
+
+    kotakDua.innerHTML = `
+    <h3>11</h3>
+    <p>Pasien Dalam Pengawasan(PDP)</p>
+    `;
+
+    kotakTiga.innerHTML = `
+    <h3>102</h3>
+    <p>Orang Dalam Pemantauan (ODP)</p>
+    `;
+
+    kotakEmpat.innerHTML = `
+    <h2>Status: <span id="siaga">SIAGA</span></h2>
+    <h3>Apa yang harus anda lakukan?</h3>
+    <ol>
+      <li>Sebisa mungkin <strong>tetap berada di rumah</strong></li>
+      <li><strong>Jaga jarak</strong></li>
+      <li><strong>Cuci tangan</strong> setelah menyentuh barang apapun</li>
+      <li>Merasa sakit? <strong>Usahakan menghubungi dokter melalui telepon terlebih dahulu agar dokter dapat mempersiapkan diri</strong></li>
+    </ol>
+    `;
+  } else if (kecamatanLower === "gamping") {
+    kotakSatu.innerHTML = `
+    <h3>2</h3>
+    <p>Positif</p>
+    `;
+
+    kotakDua.innerHTML = `
+    <h3>10</h3>
+    <p>Pasien Dalam Pengawasan(PDP)</p>
+    `;
+
+    kotakTiga.innerHTML = `
+    <h3>65</h3>
+    <p>Orang Dalam Pemantauan (ODP)</p>
+    `;
+
+    kotakEmpat.innerHTML = `
+    <h2>Status: <span id="siaga">SIAGA</span></h2>
+    <h3>Apa yang harus anda lakukan?</h3>
+    <ol>
+      <li>Sebisa mungkin <strong>tetap berada di rumah</strong></li>
+      <li><strong>Jaga jarak</strong></li>
+      <li><strong>Cuci tangan</strong> setelah menyentuh barang apapun</li>
+      <li>Merasa sakit? <strong>Usahakan menghubungi dokter melalui telepon terlebih dahulu agar dokter dapat mempersiapkan diri</strong></li>
+    </ol>
+    `;
+  } else if (kecamatanLower === "godean") {
+    kotakSatu.innerHTML = `
+    <h3>0</h3>
+    <p>Positif</p>
+    `;
+
+    kotakDua.innerHTML = `
+    <h3>8</h3>
+    <p>Pasien Dalam Pengawasan(PDP)</p>
+    `;
+
+    kotakTiga.innerHTML = `
+    <h3>65</h3>
+    <p>Orang Dalam Pemantauan (ODP)</p>
+    `;
+
+    kotakEmpat.innerHTML = `
+    <h2>Status: <span id="siaga">SIAGA</span></h2>
+    <h3>Apa yang harus anda lakukan?</h3>
+    <ol>
+      <li>Sebisa mungkin <strong>tetap berada di rumah</strong></li>
+      <li><strong>Jaga jarak</strong></li>
+      <li><strong>Cuci tangan</strong> setelah menyentuh barang apapun</li>
+      <li>Merasa sakit? <strong>Usahakan menghubungi dokter melalui telepon terlebih dahulu agar dokter dapat mempersiapkan diri</strong></li>
+    </ol>
+    `;
+  } else if (kecamatanLower === "mlati") {
+    kotakSatu.innerHTML = `
+    <h3>3</h3>
+    <p>Positif</p>
+    `;
+
+    kotakDua.innerHTML = `
+    <h3>11</h3>
+    <p>Pasien Dalam Pengawasan(PDP)</p>
+    `;
+
+    kotakTiga.innerHTML = `
+    <h3>55</h3>
+    <p>Orang Dalam Pemantauan (ODP)</p>
+    `;
+
+    kotakEmpat.innerHTML = `
+    <h2>Status: <span id="siaga">SIAGA</span></h2>
+    <h3>Apa yang harus anda lakukan?</h3>
+    <ol>
+      <li>Sebisa mungkin <strong>tetap berada di rumah</strong></li>
+      <li><strong>Jaga jarak</strong></li>
+      <li><strong>Cuci tangan</strong> setelah menyentuh barang apapun</li>
+      <li>Merasa sakit? <strong>Usahakan menghubungi dokter melalui telepon terlebih dahulu agar dokter dapat mempersiapkan diri</strong></li>
+    </ol>
+    `;
+  } else if (kecamatanLower === "ngemplak") {
+    kotakSatu.innerHTML = `
+    <h3>1</h3>
+    <p>Positif</p>
+    `;
+
+    kotakDua.innerHTML = `
+    <h3>8</h3>
+    <p>Pasien Dalam Pengawasan(PDP)</p>
+    `;
+
+    kotakTiga.innerHTML = `
+    <h3>55</h3>
+    <p>Orang Dalam Pemantauan (ODP)</p>
+    `;
+
+    kotakEmpat.innerHTML = `
+    <h2>Status: <span id="siaga">SIAGA</span></h2>
+    <h3>Apa yang harus anda lakukan?</h3>
+    <ol>
+      <li>Sebisa mungkin <strong>tetap berada di rumah</strong></li>
+      <li><strong>Jaga jarak</strong></li>
+      <li><strong>Cuci tangan</strong> setelah menyentuh barang apapun</li>
+      <li>Merasa sakit? <strong>Usahakan menghubungi dokter melalui telepon terlebih dahulu agar dokter dapat mempersiapkan diri</strong></li>
+    </ol>
+    `;
   }
 
   document.getElementById("jadisatu").appendChild(kotakSatu);
