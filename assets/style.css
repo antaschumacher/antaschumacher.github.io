@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Comic+Neue&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: content-box;
+}
+
+body {
+  width: 98vw;
+  height: 120vh;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin: 10vh auto 30px auto;
+}
+
+form {
+  text-align: center;
+}
+
+input, button {
+  display: block;
+  margin: 0 auto;
+}
+
+input {
+  width: 200px;
+  height: 20px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+button {
+  background-color: purple;
+  color: white;
+  width: 150px;
+  height: 50px;
+  font-size: 20px;
+  border-radius: 15px;
+  margin-top: 10px;
+  box-shadow: 5px 4px 8px 0 rgba(255, 0, 0, 0.5);
+  font-family: 'Comic Neue', sans-serif;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: yellow;
+  color: purple;
+}
+
+#output {
+  margin-top: 20px;
+  text-align: center;
+  width: 100%;
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#jadisatu {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 30%;
+  justify-content: space-around;
+}
+
+.satu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 20%;
+  height: 100%;
+  box-shadow: 5px 4px 8px 0 rgba(255, 0, 0, 0.5);
+  border-radius: 10px;
+}
+
+.satu h3 {
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+
+#satu h3 {
+  color: red;
+}
+
+#dua h3 {
+  color: orange;
+}
+
+#tiga h3 {
+  color: yellow;
+}
+
+.empat {
+  margin-top: 40px;
+  padding: 30px;
+  box-shadow: 5px 4px 8px 0 rgba(255, 0, 0, 0.5);
+  width: 350px;
+  border-radius: 10px;
+}
+
+.empat h2 {
+  margin-top: 20px;
+}
+
+#siaga {
+  color: red;
+}
+
+.empat h3 {
+  margin-top: 20px;
+}
+
+.empat ol {
+  margin-top: 15px;
+  list-style-type: none;
+  text-align: left;
+}
+
+.empat li {
+  margin-top: 25px;
+}
