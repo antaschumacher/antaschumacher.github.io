@@ -11,11 +11,22 @@ body {
   width: 98vw;
   height: 120vh;
   font-family: 'Ubuntu', sans-serif;
+  background-color: grey;
+  color: white;
 }
 
 h1 {
   text-align: center;
-  margin: 10vh auto 30px auto;
+  margin: 10vh 8vw 10px 10vw;
+  background-color: orange;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+p {
+  text-align: center;
+  margin-bottom: 40px;
 }
 
 form {
@@ -45,6 +56,7 @@ button {
   box-shadow: 5px 4px 8px 0 rgba(255, 0, 0, 0.5);
   font-family: 'Comic Neue', sans-serif;
   font-weight: bold;
+  cursor: pointer;
 }
 
 button:hover {
@@ -52,11 +64,16 @@ button:hover {
   color: purple;
 }
 
+button:active {
+  background-color: blue;
+  color: yellow;
+}
+
 #output {
   margin-top: 20px;
   text-align: center;
   width: 100%;
-  height: 80%;
+  height: 90%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -76,13 +93,18 @@ button:hover {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   width: 20%;
-  height: 100%;
+  height: 50%;
   box-shadow: 5px 4px 8px 0 rgba(255, 0, 0, 0.5);
   border-radius: 10px;
+  padding: 10px;
+  background-color: white;
+  color: black;
 }
 
 .satu h3 {
+  margin-top: 30px;
   margin-bottom: 10px;
   font-size: 30px;
 }
@@ -99,12 +121,23 @@ button:hover {
   color: yellow;
 }
 
+#jadidua {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-around;
+  height: 50%;
+  width: 100%;
+  margin-bottom: 50px;
+}
+
 .empat {
-  margin-top: 40px;
-  padding: 30px;
+  padding: 15px;
   box-shadow: 5px 4px 8px 0 rgba(255, 0, 0, 0.5);
-  width: 350px;
   border-radius: 10px;
+  width: 400px;
+  height: 400px;
+  background-color: white;
+  color: black;
 }
 
 .empat h2 {
@@ -113,6 +146,10 @@ button:hover {
 
 #siaga {
   color: red;
+}
+
+#awas {
+  color: yellow;
 }
 
 .empat h3 {
@@ -127,4 +164,37 @@ button:hover {
 
 .empat li {
   margin-top: 25px;
+}
+
+.empat h4 {
+  margin-bottom: 25px;
+}
+
+ #lima {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.fas {
+  font-size: 30px;
+}
+
+#lima th {
+  text-align: left;
+}
+
+#lima tr {
+  margin: 10px 0;
+}
+
+@media screen and (max-width: 990px) {
+  .satu {
+    width: 100%;
+  }
+
+  .empat {
+    width: 100%;
+  }
 }
