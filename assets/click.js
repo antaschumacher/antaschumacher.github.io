@@ -39,7 +39,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>25</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -65,7 +65,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>10</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -91,7 +91,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>23</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -117,7 +117,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>11</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -143,7 +143,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>10</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -169,7 +169,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>8</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -195,7 +195,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>11</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -221,7 +221,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>8</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -247,7 +247,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>3</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -273,7 +273,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>4</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -299,7 +299,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>5</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -325,7 +325,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>0</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -351,7 +351,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>0</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -377,7 +377,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>2</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -403,7 +403,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>3</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -429,7 +429,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>7</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -455,7 +455,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>3</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -481,7 +481,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>10</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -507,7 +507,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>5</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -533,7 +533,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>1</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -559,7 +559,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>5</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -585,7 +585,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>6</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -611,7 +611,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>6</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -637,7 +637,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>6</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -663,7 +663,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>1</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -689,7 +689,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>0</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -741,7 +741,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>3</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -767,7 +767,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>4</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -793,7 +793,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>1</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -819,7 +819,7 @@ function daerahCorona() {
 
       kotakDuaLagi.innerHTML = `
       <h3>1</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
@@ -856,7 +856,7 @@ function daerahCorona() {
 
         kotakDua.innerHTML = `
         <h3>25</h3>
-        <p>Pasien Dalam Pengawasan(PDP)</p>
+        <p>Pasien Dalam Pengawasan (PDP)</p>
         `;
 
         kotakTiga.innerHTML = `
@@ -882,7 +882,7 @@ function daerahCorona() {
 
         kotakDua.innerHTML = `
         <h3>10</h3>
-        <p>Pasien Dalam Pengawasan(PDP)</p>
+        <p>Pasien Dalam Pengawasan (PDP)</p>
         `;
 
         kotakTiga.innerHTML = `
@@ -908,7 +908,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>23</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -934,7 +934,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>11</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -960,7 +960,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>10</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -986,7 +986,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>8</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1012,7 +1012,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>11</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1038,7 +1038,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>8</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1064,7 +1064,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>3</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1090,7 +1090,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>4</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1116,7 +1116,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>5</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1142,7 +1142,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>0</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1168,7 +1168,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>0</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1194,7 +1194,7 @@ function daerahCorona() {
 
       kotakDuLagi.innerHTML = `
       <h3>2</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1220,7 +1220,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>3</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1246,7 +1246,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>7</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1272,7 +1272,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>3</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1298,7 +1298,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>10</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1324,7 +1324,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>5</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1350,7 +1350,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>1</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1376,7 +1376,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>5</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1402,7 +1402,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>6</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1428,7 +1428,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>6</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1454,7 +1454,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>6</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1480,7 +1480,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>1</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1506,7 +1506,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>0</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1558,7 +1558,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>3</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1584,7 +1584,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>4</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1610,7 +1610,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>1</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
@@ -1636,7 +1636,7 @@ function daerahCorona() {
 
       kotakDua.innerHTML = `
       <h3>1</h3>
-      <p>Pasien Dalam Pengawasan(PDP)</p>
+      <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
