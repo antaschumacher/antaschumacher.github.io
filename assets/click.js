@@ -1696,3 +1696,9 @@ function daerahCorona() {
 
   isAccessed = true;
 }
+
+function enterPress(e) {
+  if (e.which == 13) {
+    daerahCorona();
+  }
+}
