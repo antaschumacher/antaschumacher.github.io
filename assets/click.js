@@ -1700,5 +1700,6 @@ function daerahCorona() {
 function enterPress(e) {
   if (e.which == 13) {
     daerahCorona();
+    e.preventDefault();
   }
 }
