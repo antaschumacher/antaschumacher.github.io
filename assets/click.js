@@ -33,17 +33,17 @@ function daerahCorona() {
   if(isAccessed) {
     if (kecamatanLower === "depok") {
       kotakSatuLagi.innerHTML = `
-      <h3>4</h3>
+      <h3>4 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>25</h3>
+      <h3>29 (+4)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>184</h3>
+      <h3>184 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -59,17 +59,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "sleman") {
       kotakSatuLagi.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>10</h3>
+      <h3>10 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>185</h3>
+      <h3>185 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -85,17 +85,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "ngaglik") {
       kotakSatuLagi.innerHTML = `
-      <h3>5</h3>
+      <h3>5 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>23</h3>
+      <h3>24 (+1)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>65</h3>
+      <h3>65 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -111,17 +111,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "kalasan") {
       kotakSatuLagi.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>11</h3>
+      <h3>13 (+2)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>102</h3>
+      <h3>102 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -137,17 +137,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "gamping") {
       kotakSatuLagi.innerHTML = `
-      <h3>2</h3>
+      <h3>2 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>10</h3>
+      <h3>12 (+2)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>65</h3>
+      <h3>65 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -163,17 +163,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "godean") {
       kotakSatuLagi.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>8</h3>
+      <h3>10 (+2)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>65</h3>
+      <h3>65 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -189,17 +189,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "mlati") {
       kotakSatuLagi.innerHTML = `
-      <h3>3</h3>
+      <h3>3 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>11</h3>
+      <h3>12 (+1)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>55</h3>
+      <h3>55 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -215,17 +215,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "ngemplak") {
       kotakSatuLagi.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>8</h3>
+      <h3>10 (+2)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>55</h3>
+      <h3>55 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -241,17 +241,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "moyudan") {
       kotakSatuLagi.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>3</h3>
+      <h3>3 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>53</h3>
+      <h3>53 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -267,17 +267,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "prambanan") {
       kotakSatuLagi.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>4</h3>
+      <h3>4 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>31</h3>
+      <h3>31 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -293,17 +293,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "berbah") {
       kotakSatuLagi.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>5</h3>
+      <h3>6 (+1)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>23</h3>
+      <h3>23 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -319,17 +319,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "minggir") {
       kotakSatuLagi.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>28</h3>
+      <h3>28 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -345,17 +345,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "cangkringan") {
       kotakSatuLagi.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>27</h3>
+      <h3>27 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -371,17 +371,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "turi") {
       kotakSatuLagi.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>2</h3>
+      <h3>2 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>22</h3>
+      <h3>22 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -397,17 +397,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "tempel") {
       kotakSatuLagi.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>3</h3>
+      <h3>5 (+2)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>20</h3>
+      <h3>20 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -423,17 +423,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "pakem") {
       kotakSatuLagi.innerHTML = `
-      <h3>1</h3>
+      <h3>2 (+1)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>7</h3>
+      <h3>7 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>13</h3>
+      <h3>13 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -449,17 +449,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "seyegan") {
       kotakSatuLagi.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>3</h3>
+      <h3>4 (+1)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>17</h3>
+      <h3>17 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -475,17 +475,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "umbulharjo") {
       kotakSatuLagi.innerHTML = `
-      <h3>2</h3>
+      <h3>2 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>10</h3>
+      <h3>10 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>98</h3>
+      <h3>98 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -501,17 +501,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "gondokusuman") {
       kotakSatuLagi.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>5</h3>
+      <h3>5 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>51</h3>
+      <h3>51 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -527,17 +527,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "kotagede") {
       kotakSatuLagi.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>44</h3>
+      <h3>44 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -553,17 +553,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "mergangsan") {
       kotakSatuLagi.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>5</h3>
+      <h3>5 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>31</h3>
+      <h3>31 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -579,17 +579,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "wirobrajan") {
       kotakSatuLagi.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>6</h3>
+      <h3>6 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>30</h3>
+      <h3>30 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -605,17 +605,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "mantrijeron") {
       kotakSatuLagi.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>6</h3>
+      <h3>6 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>24</h3>
+      <h3>24 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -631,17 +631,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "jetis") {
       kotakSatuLagi.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>6</h3>
+      <h3>6 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>18</h3>
+      <h3>18 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -657,17 +657,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "kraton") {
       kotakSatuLagi.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>22</h3>
+      <h3>22 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -709,17 +709,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "tegalrejo") {
       kotakSatuLagi.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>4</h3>
+      <h3>4 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>15</h3>
+      <h3>15 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -735,17 +735,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "gondomanan") {
       kotakSatuLagi.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>3</h3>
+      <h3>3 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>15</h3>
+      <h3>15 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -761,17 +761,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "ngampilan") {
       kotakSatuLagi.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>4</h3>
+      <h3>4 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>13</h3>
+      <h3>13 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -787,17 +787,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "danurejan") {
       kotakSatuLagi.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>14</h3>
+      <h3>14 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -813,17 +813,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "pakualaman") {
       kotakSatuLagi.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>9</h3>
+      <h3>9 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -850,17 +850,17 @@ function daerahCorona() {
   if (!isAccessed) {
     if (kecamatanLower === "depok") {
         kotakSatu.innerHTML = `
-        <h3>4</h3>
+        <h3>4 (+0)</h3>
         <p>Positif</p>
         `;
 
         kotakDua.innerHTML = `
-        <h3>25</h3>
+        <h3>29 (+4)</h3>
         <p>Pasien Dalam Pengawasan (PDP)</p>
         `;
 
         kotakTiga.innerHTML = `
-        <h3>184</h3>
+        <h3>184 (+0)</h3>
         <p>Orang Dalam Pemantauan (ODP)</p>
         `;
 
@@ -876,17 +876,17 @@ function daerahCorona() {
         `;
     } else if (kecamatanLower === "sleman") {
         kotakSatu.innerHTML = `
-        <h3>1</h3>
+        <h3>1 (+0)</h3>
         <p>Positif</p>
         `;
 
         kotakDua.innerHTML = `
-        <h3>10</h3>
+        <h3>10 (+0)</h3>
         <p>Pasien Dalam Pengawasan (PDP)</p>
         `;
 
         kotakTiga.innerHTML = `
-        <h3>185</h3>
+        <h3>185 (+0)</h3>
         <p>Orang Dalam Pemantauan (ODP)</p>
         `;
 
@@ -902,17 +902,17 @@ function daerahCorona() {
         `;
     } else if (kecamatanLower === "ngaglik") {
       kotakSatu.innerHTML = `
-      <h3>5</h3>
+      <h3>5 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>23</h3>
+      <h3>24 (+1)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>65</h3>
+      <h3>65 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -928,17 +928,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "kalasan") {
       kotakSatu.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>11</h3>
+      <h3>13 (+2)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>102</h3>
+      <h3>102 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -954,17 +954,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "gamping") {
       kotakSatu.innerHTML = `
-      <h3>2</h3>
+      <h3>2 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>10</h3>
+      <h3>12 (+2)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>65</h3>
+      <h3>65 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -980,17 +980,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "godean") {
       kotakSatu.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>8</h3>
+      <h3>10 (+2)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>65</h3>
+      <h3>65 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1006,17 +1006,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "mlati") {
       kotakSatu.innerHTML = `
-      <h3>3</h3>
+      <h3>3 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>11</h3>
+      <h3>12 (+1)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>55</h3>
+      <h3>55 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1032,17 +1032,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "ngemplak") {
       kotakSatu.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>8</h3>
+      <h3>10 (+2)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>55</h3>
+      <h3>55 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1058,17 +1058,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "moyudan") {
       kotakSatu.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>3</h3>
+      <h3>3 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>53</h3>
+      <h3>53 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1084,17 +1084,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "prambanan") {
       kotakSatu.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>4</h3>
+      <h3>4 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>31</h3>
+      <h3>31 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1110,17 +1110,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "berbah") {
       kotakSatu.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>5</h3>
+      <h3>6 (+1)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>23</h3>
+      <h3>23 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1136,17 +1136,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "minggir") {
       kotakSatu.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>28</h3>
+      <h3>28 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1162,17 +1162,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "cangkringan") {
       kotakSatu.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>27</h3>
+      <h3>27 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1188,17 +1188,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "turi") {
       kotakSatu.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDuLagi.innerHTML = `
-      <h3>2</h3>
+      <h3>2 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>22</h3>
+      <h3>22 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1214,17 +1214,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "tempel") {
       kotakSatu.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>3</h3>
+      <h3>5 (+2)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>20</h3>
+      <h3>20 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1240,17 +1240,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "pakem") {
       kotakSatu.innerHTML = `
-      <h3>1</h3>
+      <h3>2 (+1)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>7</h3>
+      <h3>7 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>13</h3>
+      <h3>13 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1266,17 +1266,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "seyegan") {
       kotakSatu.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>3</h3>
+      <h3>4 (+1)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>17</h3>
+      <h3>17 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1292,17 +1292,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "umbulharjo") {
       kotakSatu.innerHTML = `
-      <h3>2</h3>
+      <h3>2 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>10</h3>
+      <h3>10 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>98</h3>
+      <h3>98 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1318,17 +1318,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "gondokusuman") {
       kotakSatu.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>5</h3>
+      <h3>5 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>51</h3>
+      <h3>51 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1344,17 +1344,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "kotagede") {
       kotakSatu.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>44</h3>
+      <h3>44 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1370,17 +1370,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "mergangsan") {
       kotakSatu.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>5</h3>
+      <h3>5 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>31</h3>
+      <h3>31 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1396,17 +1396,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "wirobrajan") {
       kotakSatu.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>6</h3>
+      <h3>6 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>30</h3>
+      <h3>30 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1422,17 +1422,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "mantrijeron") {
       kotakSatu.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>6</h3>
+      <h3>6 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>24</h3>
+      <h3>24 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1448,17 +1448,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "jetis") {
       kotakSatu.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>6</h3>
+      <h3>6 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>18</h3>
+      <h3>18 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1474,17 +1474,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "kraton") {
       kotakSatu.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>22</h3>
+      <h3>22 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1500,17 +1500,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "gedongtengen") {
       kotakSatu.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>22</h3>
+      <h3>22 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1526,17 +1526,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "tegalrejo") {
       kotakSatu.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>4</h3>
+      <h3>4 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>15</h3>
+      <h3>15 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1552,17 +1552,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "gondomanan") {
       kotakSatu.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>3</h3>
+      <h3>3 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>15</h3>
+      <h3>15 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1578,17 +1578,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "ngampilan") {
       kotakSatu.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>4</h3>
+      <h3>4 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>13</h3>
+      <h3>13 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1604,17 +1604,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "danurejan") {
       kotakSatu.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>14</h3>
+      <h3>14 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1630,17 +1630,17 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "pakualaman") {
       kotakSatu.innerHTML = `
-      <h3>0</h3>
+      <h3>0 (+0)</h3>
       <p>Positif</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>1</h3>
+      <h3>1 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>9</h3>
+      <h3>9 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1663,8 +1663,8 @@ function daerahCorona() {
       `;
     }
   }
-
   kotakLima.innerHTML = `
+
   <h4>Kontak yang dapat dihubungi:</h4>
   <table>
     <tr>
