@@ -208,6 +208,14 @@ button:active {
   margin: 10px 0;
 }
 
+#sembuh {
+  color: green;
+}
+
+#meninggal {
+  color: red;
+}
+
 @media screen and (max-width: 990px) {
   .satu {
     width: 100%;
