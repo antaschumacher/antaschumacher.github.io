@@ -33,21 +33,21 @@ function daerahCorona() {
   if(isAccessed) {
     if (kecamatanLower === "depok") {
       kotakSatuLagi.innerHTML = `
-      <h3>5 (+1)</h3>
+      <h3>7 (+1)</h3>
       <p>Positif</p>
-      <p><span id="sembuh">1</span> Positif-Sembuh</p>
+      <p><span id="sembuh">2</span> Positif-Sembuh</p>
       <p><span id="meninggal">1</span> Positif-Meninggal</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>29 (+0)</h3>
+      <h3>38 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">10</span> PDP-Negatif</p>
-      <p><span id="meninggal">0</span> PDP-Meninggal</p>
+      <p><span id="sembuh">24</span> PDP-Negatif</p>
+      <p><span id="meninggal">1</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>192 (+8)</h3>
+      <h3>243 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -65,19 +65,19 @@ function daerahCorona() {
       kotakSatuLagi.innerHTML = `
       <h3>1 (+0)</h3>
       <p>Positif</p>
-      <p><span id="sembuh">0</span> Positif-Sembuh</p>
+      <p><span id="sembuh">1</span> Positif-Sembuh</p>
       <p><span id="meninggal">0</span> Positif-Meninggal</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>10 (+0)</h3>
+      <h3>16 (+3)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">1</span> PDP-Negatif</p>
-      <p><span id="meninggal">0</span> PDP-Meninggal</p>
+      <p><span id="sembuh">4</span> PDP-Negatif</p>
+      <p><span id="meninggal">1</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>185 (+0)</h3>
+      <h3>88 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -93,21 +93,21 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "ngaglik") {
       kotakSatuLagi.innerHTML = `
-      <h3>5 (+0)</h3>
+      <h3>8 (+0)</h3>
       <p>Positif</p>
-      <p><span id="sembuh">0</span> Positif-Sembuh</p>
+      <p><span id="sembuh">2</span> Positif-Sembuh</p>
       <p><span id="meninggal">1</span> Positif-Meninggal</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>25 (+1)</h3>
+      <h3>33 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">9</span> PDP-Negatif</p>
-      <p><span id="meninggal">1</span> PDP-Meninggal</p>
+      <p><span id="sembuh">13</span> PDP-Negatif</p>
+      <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>65 (+0)</h3>
+      <h3>110 (+4)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -123,21 +123,21 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "kalasan") {
       kotakSatuLagi.innerHTML = `
-      <h3>2 (+1)</h3>
+      <h3>4 (+0)</h3>
       <p>Positif</p>
-      <p><span id="sembuh">1</span> Positif-Sembuh</p>
+      <p><span id="sembuh">3</span> Positif-Sembuh</p>
       <p><span id="meninggal">0</span> Positif-Meninggal</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>12 (+0)</h3>
+      <h3>15 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">2</span> PDP-Negatif</p>
+      <p><span id="sembuh">5</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>102 (+0)</h3>
+      <h3>103 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -153,21 +153,21 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "gamping") {
       kotakSatuLagi.innerHTML = `
-      <h3>2 (+0)</h3>
+      <h3>4 (+0)</h3>
       <p>Positif</p>
-      <p><span id="sembuh">0</span> Positif-Sembuh</p>
+      <p><span id="sembuh">1</span> Positif-Sembuh</p>
       <p><span id="meninggal">1</span> Positif-Meninggal</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>12 (+0)</h3>
+      <h3>16 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">2</span> PDP-Negatif</p>
+      <p><span id="sembuh">5</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>65 (+0)</h3>
+      <h3>86 (+8)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -183,21 +183,21 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "godean") {
       kotakSatuLagi.innerHTML = `
-      <h3>1 (+1)</h3>
+      <h3>2 (+0)</h3>
       <p>Positif</p>
       <p><span id="sembuh">0</span> Positif-Sembuh</p>
       <p><span id="meninggal">0</span> Positif-Meninggal</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>9 (+0)</h3>
+      <h3>10 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">2</span> PDP-Negatif</p>
+      <p><span id="sembuh">6</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>68 (+3)</h3>
+      <h3>79 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -215,19 +215,19 @@ function daerahCorona() {
       kotakSatuLagi.innerHTML = `
       <h3>3 (+0)</h3>
       <p>Positif</p>
-      <p><span id="sembuh">1</span> Positif-Sembuh</p>
+      <p><span id="sembuh">2</span> Positif-Sembuh</p>
       <p><span id="meninggal">0</span> Positif-Meninggal</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>12 (+0)</h3>
+      <h3>19 (+3)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">3</span> PDP-Negatif</p>
-      <p><span id="meninggal">1</span> PDP-Meninggal</p>
+      <p><span id="sembuh">8</span> PDP-Negatif</p>
+      <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>56 (+1)</h3>
+      <h3>109 (+2)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -243,21 +243,21 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "ngemplak") {
       kotakSatuLagi.innerHTML = `
-      <h3>1 (+0)</h3>
+      <h3>3 (+0)</h3>
       <p>Positif</p>
       <p><span id="sembuh">1</span> Positif-Sembuh</p>
       <p><span id="meninggal">0</span> Positif-Meninggal</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>13 (+3)</h3>
+      <h3>12 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">4</span> PDP-Negatif</p>
+      <p><span id="sembuh">6</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>56 (+1)</h3>
+      <h3>66 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -275,19 +275,19 @@ function daerahCorona() {
       kotakSatuLagi.innerHTML = `
       <h3>1 (+0)</h3>
       <p>Positif</p>
-      <p><span id="sembuh">0</span> Positif-Sembuh</p>
+      <p><span id="sembuh">1</span> Positif-Sembuh</p>
       <p><span id="meninggal">0</span> Positif-Meninggal</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>3 (+0)</h3>
+      <h3>9 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">1</span> PDP-Negatif</p>
+      <p><span id="sembuh">5</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>53 (+0)</h3>
+      <h3>65 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -310,14 +310,14 @@ function daerahCorona() {
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>5 (+1)</h3>
+      <h3>7 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">2</span> PDP-Negatif</p>
+      <p><span id="sembuh">3</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>31 (+0)</h3>
+      <h3>31 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -340,14 +340,14 @@ function daerahCorona() {
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>7 (+1)</h3>
+      <h3>8 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">1</span> PDP-Negatif</p>
+      <p><span id="sembuh">2</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>23 (+0)</h3>
+      <h3>29 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -370,14 +370,14 @@ function daerahCorona() {
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>1 (+1)</h3>
+      <h3>2 (+1)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">0</span> PDP-Negatif</p>
+      <p><span id="sembuh">1</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>29 (+1)</h3>
+      <h3>40 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -400,14 +400,14 @@ function daerahCorona() {
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>0 (+0)</h3>
+      <h3>3 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">0</span> PDP-Negatif</p>
+      <p><span id="sembuh">2</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>29 (+2)</h3>
+      <h3>40 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -430,14 +430,14 @@ function daerahCorona() {
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>2 (+0)</h3>
+      <h3>4 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">1</span> PDP-Negatif</p>
+      <p><span id="sembuh">3</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>22 (+0)</h3>
+      <h3>24 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -460,14 +460,14 @@ function daerahCorona() {
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>6 (+1)</h3>
+      <h3>7 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       <p><span id="sembuh">2</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>21 (+1)</h3>
+      <h3>32 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -483,21 +483,21 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "pakem") {
       kotakSatuLagi.innerHTML = `
-      <h3>3 (+1)</h3>
+      <h3>2 (+0)</h3>
       <p>Positif</p>
       <p><span id="sembuh">0</span> Positif-Sembuh</p>
       <p><span id="meninggal">1</span> Positif-Meninggal</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>6 (+0)</h3>
+      <h3>12 (+1)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">1</span> PDP-Negatif</p>
+      <p><span id="sembuh">4</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>13 (+0)</h3>
+      <h3>42 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -520,14 +520,14 @@ function daerahCorona() {
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>4 (+0)</h3>
+      <h3>7 (+1)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">1</span> PDP-Negatif</p>
+      <p><span id="sembuh">3</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>19 (+2)</h3>
+      <h3>31 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -550,14 +550,14 @@ function daerahCorona() {
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>12 (+2)</h3>
+      <h3>13 (+1)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">5</span> PDP-Negatif</p>
+      <p><span id="sembuh">12</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>100 (+2)</h3>
+      <h3>106 (+4)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -580,14 +580,14 @@ function daerahCorona() {
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>6 (+1)</h3>
+      <h3>7 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">2</span> PDP-Negatif</p>
+      <p><span id="sembuh">5</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>52 (+1)</h3>
+      <h3>54 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -617,7 +617,7 @@ function daerahCorona() {
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>45 (+1)</h3>
+      <h3>47 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -635,19 +635,19 @@ function daerahCorona() {
       kotakSatuLagi.innerHTML = `
       <h3>1 (+0)</h3>
       <p>Positif</p>
-      <p><span id="sembuh">0</span> Positif-Sembuh</p>
+      <p><span id="sembuh">1</span> Positif-Sembuh</p>
       <p><span id="meninggal">0</span> Positif-Meninggal</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>5 (+0)</h3>
+      <h3>7 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">3</span> PDP-Negatif</p>
+      <p><span id="sembuh">6</span> PDP-Negatif</p>
       <p><span id="meninggal">1</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>31 (+0)</h3>
+      <h3>33 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -663,21 +663,21 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "wirobrajan") {
       kotakSatuLagi.innerHTML = `
-      <h3>0 (+0)</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       <p><span id="sembuh">0</span> Positif-Sembuh</p>
       <p><span id="meninggal">0</span> Positif-Meninggal</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>6 (+0)</h3>
+      <h3>5 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">4</span> PDP-Negatif</p>
-      <p><span id="meninggal">1</span> PDP-Meninggal</p>
+      <p><span id="sembuh">5</span> PDP-Negatif</p>
+      <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>31 (+1)</h3>
+      <h3>34 (+2)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -700,14 +700,14 @@ function daerahCorona() {
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>6 (+0)</h3>
+      <h3>9 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">3</span> PDP-Negatif</p>
+      <p><span id="sembuh">5</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>24 (+0)</h3>
+      <h3>27 (+2)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -730,14 +730,14 @@ function daerahCorona() {
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>7 (+1)</h3>
+      <h3>9 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">3</span> PDP-Negatif</p>
+      <p><span id="sembuh">7</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>18 (+0)</h3>
+      <h3>22 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -797,7 +797,7 @@ function daerahCorona() {
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>22 (+0)</h3>
+      <h3>24 (+2)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -820,14 +820,14 @@ function daerahCorona() {
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>5 (+1)</h3>
+      <h3>6 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">1</span> PDP-Negatif</p>
+      <p><span id="sembuh">5</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>15 (+0)</h3>
+      <h3>16 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -850,9 +850,9 @@ function daerahCorona() {
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>3 (+0)</h3>
+      <h3>5 (+2)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">2</span> PDP-Negatif</p>
+      <p><span id="sembuh">3</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
@@ -873,26 +873,26 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "ngampilan") {
       kotakSatuLagi.innerHTML = `
-      <h3>0 (+0)</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       <p><span id="sembuh">0</span> Positif-Sembuh</p>
       <p><span id="meninggal">0</span> Positif-Meninggal</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>4 (+0)</h3>
+      <h3>5 (+2)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       <p><span id="sembuh">2</span> PDP-Negatif</p>
-      <p><span id="meninggal">0</span> PDP-Meninggal</p>
+      <p><span id="meninggal">1</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>13 (+0)</h3>
+      <h3>17 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
       kotakEmpatLagi.innerHTML = `
-      <h2>Status: <span id="awas">AWAS</span></h2>
+      <h2>Status: <span id="siaga">SIAGA</span></h2>
       <h3>Apa yang harus anda lakukan?</h3>
       <ol>
         <li><i class="fas fa-house-user"></i> Kurangi aktivitas di luar dan sebisa mungkin <strong>tetap berada di kosan</strong></li>
@@ -903,26 +903,26 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "danurejan") {
       kotakSatuLagi.innerHTML = `
-      <h3>0 (+0)</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       <p><span id="sembuh">0</span> Positif-Sembuh</p>
       <p><span id="meninggal">0</span> Positif-Meninggal</p>
       `;
 
       kotakDuaLagi.innerHTML = `
-      <h3>1 (+0)</h3>
+      <h3>2 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       <p><span id="sembuh">0</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>14 (+0)</h3>
+      <h3>16 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
       kotakEmpatLagi.innerHTML = `
-      <h2>Status: <span id="awas">AWAS</span></h2>
+      <h2>Status: <span id="siaga">SIAGA</span></h2>
       <h3>Apa yang harus anda lakukan?</h3>
       <ol>
         <li><i class="fas fa-house-user"></i> Kurangi aktivitas di luar dan sebisa mungkin <strong>tetap berada di kosan</strong></li>
@@ -947,7 +947,7 @@ function daerahCorona() {
       `;
 
       kotakTigaLagi.innerHTML = `
-      <h3>9 (+0)</h3>
+      <h3>10 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -974,21 +974,21 @@ function daerahCorona() {
   if (!isAccessed) {
     if (kecamatanLower === "depok") {
         kotakSatu.innerHTML = `
-        <h3>5 (+1)</h3>
+        <h3>7 (+1)</h3>
         <p>Positif</p>
-        <p><span id="sembuh">1</span> Positif-Sembuh</p>
+        <p><span id="sembuh">2</span> Positif-Sembuh</p>
         <p><span id="meninggal">1</span> Positif-Meninggal</p>
         `;
 
         kotakDua.innerHTML = `
-        <h3>29 (+0)</h3>
+        <h3>38 (+0)</h3>
         <p>Pasien Dalam Pengawasan (PDP)</p>
-        <p><span id="sembuh">10</span> PDP-Negatif</p>
-        <p><span id="meninggal">0</span> PDP-Meninggal</p>
+        <p><span id="sembuh">24</span> PDP-Negatif</p>
+        <p><span id="meninggal">1</span> PDP-Meninggal</p>
         `;
 
         kotakTiga.innerHTML = `
-        <h3>192 (+8)</h3>
+        <h3>243 (+0)</h3>
         <p>Orang Dalam Pemantauan (ODP)</p>
         `;
 
@@ -1006,19 +1006,19 @@ function daerahCorona() {
         kotakSatu.innerHTML = `
         <h3>1 (+0)</h3>
         <p>Positif</p>
-        <p><span id="sembuh">0</span> Positif-Sembuh</p>
+        <p><span id="sembuh">1</span> Positif-Sembuh</p>
         <p><span id="meninggal">0</span> Positif-Meninggal</p>
         `;
 
         kotakDua.innerHTML = `
-        <h3>10 (+0)</h3>
+        <h3>16 (+3)</h3>
         <p>Pasien Dalam Pengawasan (PDP)</p>
-        <p><span id="sembuh">1</span> PDP-Negatif</p>
-        <p><span id="meninggal">0</span> PDP-Meninggal</p>
+        <p><span id="sembuh">4</span> PDP-Negatif</p>
+        <p><span id="meninggal">1</span> PDP-Meninggal</p>
         `;
 
         kotakTiga.innerHTML = `
-        <h3>185 (+0)</h3>
+        <h3>88 (+0)</h3>
         <p>Orang Dalam Pemantauan (ODP)</p>
         `;
 
@@ -1034,21 +1034,21 @@ function daerahCorona() {
         `;
     } else if (kecamatanLower === "ngaglik") {
       kotakSatu.innerHTML = `
-      <h3>5 (+0)</h3>
+      <h3>8 (+0)</h3>
       <p>Positif</p>
-      <p><span id="sembuh">0</span> Positif-Sembuh</p>
+      <p><span id="sembuh">2</span> Positif-Sembuh</p>
       <p><span id="meninggal">1</span> Positif-Meninggal</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>25 (+1)</h3>
+      <h3>33 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">9</span> PDP-Negatif</p>
-      <p><span id="meninggal">1</span> PDP-Meninggal</p>
+      <p><span id="sembuh">13</span> PDP-Negatif</p>
+      <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>65 (+0)</h3>
+      <h3>110 (+4)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1064,21 +1064,21 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "kalasan") {
       kotakSatu.innerHTML = `
-      <h3>2 (+1)</h3>
+      <h3>4 (+0)</h3>
       <p>Positif</p>
-      <p><span id="sembuh">1</span> Positif-Sembuh</p>
+      <p><span id="sembuh">3</span> Positif-Sembuh</p>
       <p><span id="meninggal">0</span> Positif-Meninggal</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>12 (+0)</h3>
+      <h3>15 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">2</span> PDP-Negatif</p>
+      <p><span id="sembuh">5</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>102 (+0)</h3>
+      <h3>103 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1094,21 +1094,21 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "gamping") {
       kotakSatu.innerHTML = `
-      <h3>2 (+0)</h3>
+      <h3>4 (+0)</h3>
       <p>Positif</p>
-      <p><span id="sembuh">0</span> Positif-Sembuh</p>
+      <p><span id="sembuh">1</span> Positif-Sembuh</p>
       <p><span id="meninggal">1</span> Positif-Meninggal</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>12 (+0)</h3>
+      <h3>16 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">2</span> PDP-Negatif</p>
+      <p><span id="sembuh">5</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>65 (+0)</h3>
+      <h3>86 (+8)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1124,21 +1124,21 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "godean") {
       kotakSatu.innerHTML = `
-      <h3>1 (+1)</h3>
+      <h3>2 (+0)</h3>
       <p>Positif</p>
       <p><span id="sembuh">0</span> Positif-Sembuh</p>
       <p><span id="meninggal">0</span> Positif-Meninggal</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>9 (+0)</h3>
+      <h3>10 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">2</span> PDP-Negatif</p>
+      <p><span id="sembuh">6</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>68 (+3)</h3>
+      <h3>79 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1156,19 +1156,19 @@ function daerahCorona() {
       kotakSatu.innerHTML = `
       <h3>3 (+0)</h3>
       <p>Positif</p>
-      <p><span id="sembuh">1</span> Positif-Sembuh</p>
+      <p><span id="sembuh">2</span> Positif-Sembuh</p>
       <p><span id="meninggal">0</span> Positif-Meninggal</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>12 (+0)</h3>
+      <h3>19 (+3)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">3</span> PDP-Negatif</p>
-      <p><span id="meninggal">1</span> PDP-Meninggal</p>
+      <p><span id="sembuh">8</span> PDP-Negatif</p>
+      <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>56 (+1)</h3>
+      <h3>109 (+2)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1184,21 +1184,21 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "ngemplak") {
       kotakSatu.innerHTML = `
-      <h3>1 (+0)</h3>
+      <h3>3 (+0)</h3>
       <p>Positif</p>
       <p><span id="sembuh">1</span> Positif-Sembuh</p>
       <p><span id="meninggal">0</span> Positif-Meninggal</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>13 (+3)</h3>
+      <h3>12 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">4</span> PDP-Negatif</p>
+      <p><span id="sembuh">6</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>56 (+1)</h3>
+      <h3>66 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1216,19 +1216,19 @@ function daerahCorona() {
       kotakSatu.innerHTML = `
       <h3>1 (+0)</h3>
       <p>Positif</p>
-      <p><span id="sembuh">0</span> Positif-Sembuh</p>
+      <p><span id="sembuh">1</span> Positif-Sembuh</p>
       <p><span id="meninggal">0</span> Positif-Meninggal</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>3 (+0)</h3>
+      <h3>9 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">1</span> PDP-Negatif</p>
+      <p><span id="sembuh">5</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>53 (+0)</h3>
+      <h3>65 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1251,14 +1251,14 @@ function daerahCorona() {
       `;
 
       kotakDua.innerHTML = `
-      <h3>5 (+1)</h3>
+      <h3>7 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">2</span> PDP-Negatif</p>
+      <p><span id="sembuh">3</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>31 (+0)</h3>
+      <h3>31 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1281,14 +1281,14 @@ function daerahCorona() {
       `;
 
       kotakDua.innerHTML = `
-      <h3>7 (+1)</h3>
+      <h3>8 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">1</span> PDP-Negatif</p>
+      <p><span id="sembuh">2</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>23 (+0)</h3>
+      <h3>29 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1311,14 +1311,14 @@ function daerahCorona() {
       `;
 
       kotakDua.innerHTML = `
-      <h3>1 (+1)</h3>
+      <h3>2 (+1)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">0</span> PDP-Negatif</p>
+      <p><span id="sembuh">1</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>29 (+1)</h3>
+      <h3>40 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1341,14 +1341,14 @@ function daerahCorona() {
       `;
 
       kotakDua.innerHTML = `
-      <h3>0 (+0)</h3>
+      <h3>3 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">0</span> PDP-Negatif</p>
+      <p><span id="sembuh">2</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>29 (+2)</h3>
+      <h3>40 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1371,14 +1371,14 @@ function daerahCorona() {
       `;
 
       kotakDuLagi.innerHTML = `
-      <h3>2 (+0)</h3>
+      <h3>4 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">1</span> PDP-Negatif</p>
+      <p><span id="sembuh">3</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>22 (+0)</h3>
+      <h3>24 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1401,14 +1401,14 @@ function daerahCorona() {
       `;
 
       kotakDua.innerHTML = `
-      <h3>6 (+1)</h3>
+      <h3>7 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       <p><span id="sembuh">2</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>21 (+1)</h3>
+      <h3>32 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1424,21 +1424,21 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "pakem") {
       kotakSatu.innerHTML = `
-      <h3>2 (+1)</h3>
+      <h3>2 (+0)</h3>
       <p>Positif</p>
       <p><span id="sembuh">0</span> Positif-Sembuh</p>
       <p><span id="meninggal">1</span> Positif-Meninggal</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>6 (+0)</h3>
+      <h3>12 (+1)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">1</span> PDP-Negatif</p>
+      <p><span id="sembuh">4</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>13 (+0)</h3>
+      <h3>42 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1461,14 +1461,14 @@ function daerahCorona() {
       `;
 
       kotakDua.innerHTML = `
-      <h3>4 (+0)</h3>
+      <h3>7 (+1)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">1</span> PDP-Negatif</p>
+      <p><span id="sembuh">3</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>19 (+2)</h3>
+      <h3>31 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1491,14 +1491,14 @@ function daerahCorona() {
       `;
 
       kotakDua.innerHTML = `
-      <h3>12 (+2)</h3>
+      <h3>13 (+1)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">5</span> PDP-Negatif</p>
+      <p><span id="sembuh">12</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>100 (+2)</h3>
+      <h3>106 (+4)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1521,14 +1521,14 @@ function daerahCorona() {
       `;
 
       kotakDua.innerHTML = `
-      <h3>6 (+1)</h3>
+      <h3>7 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">2</span> PDP-Negatif</p>
+      <p><span id="sembuh">5</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>52 (+1)</h3>
+      <h3>54 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1558,7 +1558,7 @@ function daerahCorona() {
       `;
 
       kotakTiga.innerHTML = `
-      <h3>45 (+1)</h3>
+      <h3>47 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1576,19 +1576,19 @@ function daerahCorona() {
       kotakSatu.innerHTML = `
       <h3>1 (+0)</h3>
       <p>Positif</p>
-      <p><span id="sembuh">0</span> Positif-Sembuh</p>
+      <p><span id="sembuh">1</span> Positif-Sembuh</p>
       <p><span id="meninggal">0</span> Positif-Meninggal</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>5 (+0)</h3>
+      <h3>7 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">3</span> PDP-Negatif</p>
+      <p><span id="sembuh">6</span> PDP-Negatif</p>
       <p><span id="meninggal">1</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>31 (+0)</h3>
+      <h3>33 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1604,21 +1604,21 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "wirobrajan") {
       kotakSatu.innerHTML = `
-      <h3>0 (+0)</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       <p><span id="sembuh">0</span> Positif-Sembuh</p>
       <p><span id="meninggal">0</span> Positif-Meninggal</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>6 (+0)</h3>
+      <h3>5 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">4</span> PDP-Negatif</p>
-      <p><span id="meninggal">1</span> PDP-Meninggal</p>
+      <p><span id="sembuh">5</span> PDP-Negatif</p>
+      <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>31 (+1)</h3>
+      <h3>34 (+2)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1641,14 +1641,14 @@ function daerahCorona() {
       `;
 
       kotakDua.innerHTML = `
-      <h3>6 (+0)</h3>
+      <h3>9 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">3</span> PDP-Negatif</p>
+      <p><span id="sembuh">5</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>24 (+0)</h3>
+      <h3>27 (+2)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1671,14 +1671,14 @@ function daerahCorona() {
       `;
 
       kotakDua.innerHTML = `
-      <h3>7 (+1)</h3>
+      <h3>9 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">3</span> PDP-Negatif</p>
+      <p><span id="sembuh">7</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>18 (+0)</h3>
+      <h3>22 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1738,7 +1738,7 @@ function daerahCorona() {
       `;
 
       kotakTiga.innerHTML = `
-      <h3>22 (+0)</h3>
+      <h3>24 (+2)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1761,14 +1761,14 @@ function daerahCorona() {
       `;
 
       kotakDua.innerHTML = `
-      <h3>5 (+1)</h3>
+      <h3>6 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">1</span> PDP-Negatif</p>
+      <p><span id="sembuh">5</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>15 (+0)</h3>
+      <h3>16 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
@@ -1791,9 +1791,9 @@ function daerahCorona() {
       `;
 
       kotakDua.innerHTML = `
-      <h3>3 (+0)</h3>
+      <h3>5 (+2)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
-      <p><span id="sembuh">2</span> PDP-Negatif</p>
+      <p><span id="sembuh">3</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
@@ -1814,26 +1814,26 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "ngampilan") {
       kotakSatu.innerHTML = `
-      <h3>0 (+0)</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       <p><span id="sembuh">0</span> Positif-Sembuh</p>
       <p><span id="meninggal">0</span> Positif-Meninggal</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>4 (+0)</h3>
+      <h3>5 (+2)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       <p><span id="sembuh">2</span> PDP-Negatif</p>
-      <p><span id="meninggal">0</span> PDP-Meninggal</p>
+      <p><span id="meninggal">1</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>13 (+0)</h3>
+      <h3>17 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
       kotakEmpat.innerHTML = `
-      <h2>Status: <span id="awas">AWAS</span></h2>
+      <h2>Status: <span id="siaga">SIAGA</span></h2>
       <h3>Apa yang harus anda lakukan?</h3>
       <ol>
         <li><i class="fas fa-house-user"></i> Kurangi aktivitas di luar dan sebisa mungkin <strong>tetap berada di kosan</strong></li>
@@ -1844,26 +1844,26 @@ function daerahCorona() {
       `;
     } else if (kecamatanLower === "danurejan") {
       kotakSatu.innerHTML = `
-      <h3>0 (+0)</h3>
+      <h3>1 (+0)</h3>
       <p>Positif</p>
       <p><span id="sembuh">0</span> Positif-Sembuh</p>
       <p><span id="meninggal">0</span> Positif-Meninggal</p>
       `;
 
       kotakDua.innerHTML = `
-      <h3>1 (+0)</h3>
+      <h3>2 (+0)</h3>
       <p>Pasien Dalam Pengawasan (PDP)</p>
       <p><span id="sembuh">0</span> PDP-Negatif</p>
       <p><span id="meninggal">0</span> PDP-Meninggal</p>
       `;
 
       kotakTiga.innerHTML = `
-      <h3>14 (+0)</h3>
+      <h3>16 (+1)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 
       kotakEmpat.innerHTML = `
-      <h2>Status: <span id="awas">AWAS</span></h2>
+      <h2>Status: <span id="siaga">SIAGA</span></h2>
       <h3>Apa yang harus anda lakukan?</h3>
       <ol>
         <li><i class="fas fa-house-user"></i> Kurangi aktivitas di luar dan sebisa mungkin <strong>tetap berada di kosan</strong></li>
@@ -1888,7 +1888,7 @@ function daerahCorona() {
       `;
 
       kotakTiga.innerHTML = `
-      <h3>9 (+0)</h3>
+      <h3>10 (+0)</h3>
       <p>Orang Dalam Pemantauan (ODP)</p>
       `;
 

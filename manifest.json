@@ -1,0 +1,27 @@
+{
+    "name": "Football Mania",
+    "short_name": "Footnia",
+    "description": "Aplikasi informasi sepak bola terkini",
+    "gcm_sender_id": "151808696340",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#e91e63",
+    "theme_color": "#e91e63",
+    "icons": [
+        {
+            "src": "/icons/Football-Mania-Logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/Football-Mania-Logo-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/Football-Mania-Logo-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}

@@ -142,7 +142,7 @@ button:active {
   justify-content: space-around;
   height: 50%;
   width: 100%;
-  margin-bottom: 50px;
+  margin-bottom: 150px;
 }
 
 .empat {
@@ -214,6 +214,19 @@ button:active {
 
 #meninggal {
   color: red;
+}
+
+.footer {
+  width: 100%;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(4, 209, 189, 1);
+}
+
+.footer h4 {
+  padding: 10px;
 }
 
 @media screen and (max-width: 990px) {

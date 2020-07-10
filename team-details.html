@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Homepage - Football Mania</title>
+        <title>Team Details - Football Mania</title>
         <meta name="description" content="Your most beloved sport's information is on your hands!">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="theme-color" content="#e91e63">
@@ -11,24 +11,33 @@
         <link rel="stylesheet" href="css/materialize.min.css">
         <link rel="stylesheet" href="css/style.css">
         <link rel="manifest" href="manifest.json">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     </head>
 
     <body>
         <nav class="pink" role="navigation">
             <div class="nav-wrapper container">
                 <a href="/" class="brand-logo align-center" id="logo-container"><img src="img/default-new.png" alt="Football Mania logo" height="55" style="padding: 3.5px;"></a>
-                <a href="#" class="sidenav-trigger" data-target="nav-mobile">☰</a>
+                <a href="/teams.html" class="sidenav-trigger" data-target="nav-mobile">
+                    <i class="material-icons">arrow_back</i>
+                </a>
 
                 <ul class="topnav right hide-on-med-and-down"></ul>
                 <ul class="sidenav" id="nav-mobile"></ul>
             </div>
         </nav>
 
-        <div class="container" id="body-content"></div>
+        <div class="container" id="all-details" class="center-align"></div>
+
+        <div class="fixed-action-btn">
+            <a class="btn-floating btn-large red" id="save">
+            <i class="large material-icons">save</i>
+            </a>
+        </div>
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="js/materialize.min.js"></script>
         <script src="js/db/idb.js"></script>
-        <script src="/app.js" type="module"></script>
+        <script src="app.js" type="module"></script>
     </body>
 </html>
