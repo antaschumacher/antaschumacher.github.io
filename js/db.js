@@ -47,5 +47,23 @@ const getById = id => {
     });
 }
 
+const deleteTeam = id => {
+  return new Promise(function(resolve, reject) {
+    dbPromised
+      .then(function(db) {
+        var tx = db.transaction("teams", "readwrite");
+        var store = tx.objectStore("teams");
+        store.delete(id);
+        return tx;
+      })
+      .then(function(transaction) {
+        if (transaction.complete) {
+          resolve(true);
+        } else {
+          reject(new Error(transaction.onerror));
+        }
+      })
+  })
+}
 
-export { saveTeam, getAll, getById };
+export { saveTeam, getAll, getById, deleteTeam };

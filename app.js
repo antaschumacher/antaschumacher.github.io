@@ -1,5 +1,5 @@
 import navigation from '/js/nav.js';
-import { saveTeam } from '/js/db.js';
+import { saveTeam, deleteTeam } from '/js/db.js';
 import registerSW from '/js/register-service-worker.js';
 import { getStandings, getAllTeams, getTeamDetails, getSavedTeams, getSavedTeamById } from '/js/api.js';
 import permission from '/js/request-notification-permission.js';
@@ -18,12 +18,17 @@ $(document).ready(function() {
         if (isFromSaved) {
             // Hide fab jika dimuat dari indexed db
             btnSave.style.display = 'none';
-            
+
             // ambil artikel lalu tampilkan
             getSavedTeamById();
         }
     } else {
         var item = getTeamDetails();
+        var btnDelete = document.getElementById("delete");
+
+        if ($('#all-details').length) {
+            btnDelete.style.display = 'none';
+        }
 
         if ($('#save').length) {
             var save = document.getElementById("save");
@@ -32,7 +37,21 @@ $(document).ready(function() {
                 item.then(function (teamDetail) {
                     saveTeam(teamDetail);
                 });
+                $('#save').fadeOut();
             }
+        }
+    }
+
+    if ($('#delete').length) {
+        var urlParams = new URLSearchParams(window.location.search);
+        var getTheId = urlParams.get("id");
+        var numberify = Number(getTheId);
+
+        var del = document.getElementById("delete");
+        del.onclick = function() {  
+            deleteTeam(numberify);
+            M.toast({html: 'The team is deleted from offline service!'});
+            $('#delete').fadeOut();
         }
     }
 

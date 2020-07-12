@@ -7,26 +7,28 @@ if (workbox) {
 }
 
 workbox.precaching.precacheAndRoute([
-    {url: "/", revision: '1'},
-    {url: "/index.html", revision: '1'},
-    {url: "/app.js", revision: '1'},
-    {url: "/teams.html", revision: '1'},
-    {url: "/team-details.html", revision: '1'},
-    {url: "/saved-team.html", revision: '1'},
-    {url: "/manifest.json", revision: '1'},
-    {url: "/css/materialize.min.css", revision: '1'},
-    {url: "/css/style.css", revision: '1'},
-    {url: "/js/materialize.min.js", revision: '1'},
-    {url: "/js/nav.js", revision: '1'},
-    {url: "/js/register-service-worker.js", revision: '1'},
-    {url: "/js/request-notification-permission.js", revision: '1'},
-    {url: "/js/api.js", revision: '1'},
-    {url: "/js/db.js", revision: '1'},
-    {url: "/js/api/standings.js", revision: '1'},
-    {url: "/js/api/teams.js", revision: '1'},
-    {url: "/js/api/team-details.js", revision: '1'},
-    {url: "/js/db/idb.js", revision: '1'}
-])
+    {url: "/", revision: '2'},
+    {url: "/index.html", revision: '2'},
+    {url: "/app.js", revision: '6'},
+    {url: "/teams.html", revision: '2'},
+    {url: "/team-details.html", revision: '3'},
+    {url: "/saved-team.html", revision: '2'},
+    {url: "/manifest.json", revision: '2'},
+    {url: "/css/materialize.min.css", revision: '2'},
+    {url: "/css/style.css", revision: '2'},
+    {url: "/js/materialize.min.js", revision: '2'},
+    {url: "/js/nav.js", revision: '2'},
+    {url: "/js/register-service-worker.js", revision: '2'},
+    {url: "/js/request-notification-permission.js", revision: '2'},
+    {url: "/js/api.js", revision: '2'},
+    {url: "/js/db.js", revision: '3'},
+    {url: "/js/api/standings.js", revision: '2'},
+    {url: "/js/api/teams.js", revision: '2'},
+    {url: "/js/api/team-details.js", revision: '2'},
+    {url: "/js/db/idb.js", revision: '2'}
+], {
+    ignoreURLParametersMatching: [/.*/]
+});
 
 workbox.routing.registerRoute(
     new RegExp('/pages/'),
@@ -88,27 +90,6 @@ workbox.routing.registerRoute(
         cacheName: 'api-football'
     })
 )
-
-self.addEventListener("fetch", function(event) {
-    const base_url = "https://api.football-data.org/";
-
-    if (event.request.url.indexOf(base_url) > -1) {
-        event.respondWith(
-            caches.open('api-football').then(function(cache) {
-                return fetch(event.request).then(function(response) {
-                    cache.put(event.request.url, response.clone());
-                    return response;
-                })
-            })
-        );
-    } else {
-        event.respondWith(
-            caches.match(event.request, {ignoreSearch: true}).then(function(response) {
-                return response || fetch (event.request);
-            })
-        )
-    }
-});
 
 self.addEventListener("push", function(event) {
     let body;
