@@ -27,7 +27,7 @@ workbox.precaching.precacheAndRoute([
     {url: "/js/api/team-details.js", revision: '2'},
     {url: "/js/db/idb.js", revision: '2'}
 ], {
-    ignoreURLParametersMatching: [/.*/]
+    ignoreUrlParametersMatching: [/.*/]
 });
 
 workbox.routing.registerRoute(
